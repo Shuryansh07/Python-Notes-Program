@@ -7,3 +7,5 @@ fun("Guava")
 fun()         # here fruit will be orange as there are no Arguments Passed
 fun("Banana")
 fun("Apple")
+
+
